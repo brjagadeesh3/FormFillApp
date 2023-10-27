@@ -5,11 +5,11 @@
     <hr>
     <br>
 
-    <label for="name"><b>Newname</b></label>
-    <input type="text" placeholder="Enter yor name" name="name" id="name" required>
+    <label for="name"><b>New Name</b></label>
+    <input type="text" placeholder="Enter your name" name="name" id="name" required>
     <br>
 
-    <label for="email"><b>Email</b></label>
+    <label for="email"><b>New Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
    <br>
 
