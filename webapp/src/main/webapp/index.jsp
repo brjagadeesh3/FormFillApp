@@ -16,9 +16,14 @@
     <input type="text" placeholder="Enter your the  Father name" name="Father" id="Father"  required>
     <br>
 
-    <label for="siter"><b>Father Name</b></label>
+    <label for="sister"><b>sister Name</b></label>
     <input type="text" placeholder="Enter your the sister name" name="sister" id="sister"  required>
     <br>
+
+    <label for="brother"><b>brother Name</b></label>
+    <input type="text" placeholder="Enter your the brother name" name="brother" id="brother"  required>
+    <br>
+
 
     <label for="email"><b>New Email</b></label>
     <input type="text" placeholder="Enter your perment Email" name="email" id="email" required>
