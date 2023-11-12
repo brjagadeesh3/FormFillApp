@@ -13,7 +13,7 @@
     <input type="text" placeholder="Enter your mother name" name="mother" id="mother"  required>
     <br>
     <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father name" name="Father" id="Father"  required>
+    <input type="text" placeholder="Enter your Father name" name="Father" id="Father"  required>
     <br>
 
     <label for="email"><b>New Email</b></label>
@@ -21,7 +21,7 @@
    <br>
 
     <label for="psw"><b>Password</b></label>
-    <input type="password" placeholder="Enter the Password" name="psw" id="psw" required>
+    <input type="password" placeholder="Enter the 10 digit Password" name="psw" id="psw" required>
     <br>
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
