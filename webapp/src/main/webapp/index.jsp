@@ -24,7 +24,7 @@
     <input type="text" placeholder="Enter  brother name" name="brother" id="brother"  required>
     <br>
 
-     <label for="phone number"><b>New Email</b></label>
+     <label for="phone number"><b>phone number</b></label>
     <input type="number" placeholder="Enter your 10digit phone number" name="phone number" id="phone number" required>
    <br>
 
