@@ -13,15 +13,15 @@
     <input type="text" placeholder="Enter your mother name" name="mother" id="mother"  required>
     <br>
     <label for="father"><b>Father Name</b></label>
-    <input type="text" placeholder="Enter Father name" name="Father" id="Father"  required>
+    <input type="text" placeholder="Enter the Father name" name="Father" id="Father"  required>
     <br>
 
     <label for="sister"><b>sister Name</b></label>
-    <input type="text" placeholder="Enter sister name" name="sister" id="sister"  required>
+    <input type="text" placeholder="Enter the sister name" name="sister" id="sister"  required>
     <br>
   
     <label for="son"><b>son Name</b></label>
-    <input type="text" placeholder="Enter  son name" name="son" id="son"  required>
+    <input type="text" placeholder="Enter the son name" name="son" id="son"  required>
     <br>
 
 
