@@ -19,6 +19,12 @@
     <label for="sister"><b>sister Name</b></label>
     <input type="text" placeholder="Enter sister name" name="sister" id="sister"  required>
     <br>
+  
+    <label for="son"><b>son Name</b></label>
+    <input type="text" placeholder="Enter  son name" name="son" id="son"  required>
+    <br>
+
+
 
     <label for="spouse"><b>spouse Name</b></label>
     <input type="text" placeholder="Enter spouse name" name="spouse" id="spouse"  required>
